@@ -1,10 +1,10 @@
 # BlogApps
-Java Springboot  Backend ReactJs Frontend with FullStack BlogApp 
+# Java Springboot  Backend ReactJs Frontend with FullStack BlogApp 
 
 <div align="center">
 HomePage
 <br>
-<img src ="https://github.com/oguzhanmavii/BlogApps/assets/77650437/178d1bf1-979d-43d2-9163-f9fcd989ce7d" width="2000" height="800">
+<img src ="https://github.com/oguzhanmavii/BlogApps/assets/77650437/178d1bf1-979d-43d2-9163-f9fcd989ce7d" width="1400" height="800">
 <br>
 Java Springboot Architecture
 <br> 
